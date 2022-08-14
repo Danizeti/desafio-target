@@ -1,0 +1,4 @@
+#questão 5
+
+txt = input("Digite texto a ser invertido: ")[::-1]
+print(txt)
